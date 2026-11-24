@@ -20,6 +20,7 @@ PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/mi439_419/aospa_mi439_419.mk \
     $(LOCAL_DIR)/miatoll/aospa_miatoll.mk \
     $(LOCAL_DIR)/munch/aospa_munch.mk \
+    $(LOCAL_DIR)/nashc/aospa_nashc.mk \
     $(LOCAL_DIR)/nuwa/aospa_nuwa.mk \
     $(LOCAL_DIR)/oneplus7/aospa_oneplus7.mk \
     $(LOCAL_DIR)/oneplus7pro/aospa_oneplus7pro.mk \
@@ -54,6 +55,9 @@ COMMON_LUNCH_CHOICES += \
     aospa_mi439_419-userdebug \
     aospa_miatoll-userdebug \
     aospa_munch-userdebug \
+    aospa_nashc-cp2a-user \
+    aospa_nashc-cp2a-userdebug \
+    aospa_nashc-cp2a-eng \
     aospa_nuwa-userdebug \
     aospa_oneplus7-userdebug \
     aospa_oneplus7pro-userdebug \
