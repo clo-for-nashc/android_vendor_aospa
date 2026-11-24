@@ -1,0 +1,4 @@
+<manifest>
+  <remote name="bestowed-love" fetch="https://github.com/the-bestowed-love" />
+  <remote name="lineageos-nashc" fetch="https://github.com/LineageOS" />
+</manifest>
