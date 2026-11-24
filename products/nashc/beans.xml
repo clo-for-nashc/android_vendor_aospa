@@ -1,12 +1,12 @@
 <manifest>
-  <project name="android_device_realme_nashc" path="device/realme/nashc" remote="bestowed-love" revision="lineage-24-0" clone-depth="1" />
-  <project name="android_vendor_realme_nashc" path="vendor/realme/nashc" remote="bestowed-love" revision="lineage-24-0" clone-depth="1" />
-  <project name="android_kernel_realme_nashc" path="kernel/realme/nashc" remote="bestowed-love" revision="lineage-24-0" clone-depth="1" />
-  <project name="android_hardware_oplus" path="hardware/oplus" remote="bestowed-love" revision="lineage-24-0" clone-depth="1" />
-  <project name="android_hardware_mediatek" path="hardware/mediatek" remote="bestowed-love" revision="lineage-24-0" clone-depth="1" />
-  <project name="android_device_mediatek_sepolicy_vendr" path="device/mediatek/sepolicy_vndr" remote="bestowed-love" revision="lineage-24-0" clone-depth="1" />
-  <project name="android_device_lineage_sepolicy" path="device/lineage/sepolicy" remote="lineageos-nashc" revision="lineage-24.0" clone-depth="1" />
-  <project name="android_hardware_lineage_interfaces" path="hardware/lineage/interfaces" remote="lineageos-nashc" revision="lineage-24.0" clone-depth="1" />
-  <project name="android_hardware_google_pixel" path="hardware/google/pixel" remote="lineageos-nashc" revision="lineage-24.0" clone-depth="1" />
-  <project name="android_bootable_deprecated-ota" path="bootable/deprecated-ota" remote="lineageos-nashc" revision="lineage-24.0" clone-depth="1" />
+  <project name="android_device_realme_nashc" path="device/realme/nashc" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_vendor_realme_nashc" path="vendor/realme/nashc" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_kernel_realme_nashc" path="kernel/realme/nashc" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_hardware_oplus" path="hardware/oplus" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_hardware_mediatek" path="hardware/mediatek" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_device_mediatek_sepolicy_vendr" path="device/mediatek/sepolicy_vndr" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_device_lineage_sepolicy" path="device/lineage/sepolicy" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_hardware_lineage_interfaces" path="hardware/lineage/interfaces" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_hardware_google_pixel" path="hardware/google/pixel" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
+  <project name="android_bootable_deprecated-ota" path="bootable/deprecated-ota" remote="clo-for-nashc" revision="nashc-aospa" clone-depth="1" />
 </manifest>

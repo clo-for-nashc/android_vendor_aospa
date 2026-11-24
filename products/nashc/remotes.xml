@@ -1,4 +1,3 @@
 <manifest>
-  <remote name="bestowed-love" fetch="https://github.com/the-bestowed-love" />
-  <remote name="lineageos-nashc" fetch="https://github.com/LineageOS" />
+  <remote name="clo-for-nashc" fetch="https://github.com/clo-for-nashc" />
 </manifest>
